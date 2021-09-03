@@ -51,6 +51,7 @@ const UseContext = (props) => {
                     <button className="btn" onClick={() => setNumber(number + 1)}>+1</button>
                 </div>
             </div>
+            
         </div>
     )
 }
